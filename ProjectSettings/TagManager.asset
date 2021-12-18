@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Fire
   - Loader
+  - MovingPlatform
+  - Pit
+  - Fruit
   layers:
   - Default
   - TransparentFX
